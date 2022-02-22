@@ -1,0 +1,17 @@
+{
+  "name": "google-tag-manager-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DavidWells",
+  "license": "ISC",
+  "dependencies": {
+    "cacheable-lookup": "6.0.0",
+    "flags": "0.1.3",
+    "@google-cloud/bigquery": "~5.5.0"
+  }
+}
