@@ -14,6 +14,7 @@ After server endpoint deployed. You can send events through https://youtu.be/6OG
 ## Docker info
 
 - Setup https://www.simoahava.com/analytics/deploy-server-side-google-tag-manager-aws/
+- https://console.cloud.google.com/gcr/images/cloud-tagging-10302018/global/gtm-cloud-image
 - Image https://gist.githubusercontent.com/sahava/f3d1baedf7d775dccf52feb57fa64416/raw/8126571d8c45bacb8bfacda391cad3faa77cf484/Dockerrun.aws.json
 
 ```bash
